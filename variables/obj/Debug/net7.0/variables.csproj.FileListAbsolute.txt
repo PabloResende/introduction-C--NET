@@ -1,0 +1,5 @@
+/home/pablo/introduction-C#-NET/variables/obj/Debug/net7.0/variables.csproj.AssemblyReference.cache
+/home/pablo/introduction-C#-NET/variables/obj/Debug/net7.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/pablo/introduction-C#-NET/variables/obj/Debug/net7.0/variables.AssemblyInfoInputs.cache
+/home/pablo/introduction-C#-NET/variables/obj/Debug/net7.0/variables.AssemblyInfo.cs
+/home/pablo/introduction-C#-NET/variables/obj/Debug/net7.0/variables.csproj.CoreCompileInputs.cache
