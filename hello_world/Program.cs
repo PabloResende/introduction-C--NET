@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// para iniciar um projeto é preciso usas esse código:
+// dotnet new console -n nome_do_projeto
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("para executar esse 'Hello, World!', é preciso executar o arquivo 'hello_world.csproj");
 
