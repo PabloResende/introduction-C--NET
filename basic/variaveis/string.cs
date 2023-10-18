@@ -15,6 +15,4 @@ Console.WriteLine("hello" + " " + aFriend);
 Console.WriteLine($"Hello {aFriend}");
 // outra forma de mostrar a mensagem em uma string, assim não há necessidade de concatenar
 
-
-
  // OBS: sempre coloque ponto e vírgula no final
