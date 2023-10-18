@@ -21,3 +21,6 @@ Console.WriteLine($"Hello {aFriend}");
 
 // OBS: sempre coloque ponto e vírgula no final
 // OBS: priorize fazer os códigos em inglês
+
+
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=2
