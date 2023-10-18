@@ -7,7 +7,7 @@ Console.WriteLine(c);
 
 // - para subtração
 // * para multiplicação
-// / ou % para divisão 
+// / para divisão 
 
 // Subtração:
 int c = a - b;
@@ -17,7 +17,6 @@ int c = a * b;
 
 // Divisão:
 int c = a / b;
-int c = a % b;
 
 // Adição:
 int c = a + b;
