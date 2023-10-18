@@ -18,3 +18,4 @@ Console.WriteLine("hello" + " " + aFriend);
 Console.WriteLine($"Hello {aFriend}");
 
  // OBS: sempre coloque ponto e vírgula no final
+ // OBS: priorize fazer os códigos em inglês
