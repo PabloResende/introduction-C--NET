@@ -8,3 +8,5 @@ Console.WriteLine(songLyrics.StartsWith("you")); // false, a 'pergunta' aqui foi
 
 Console.WriteLine(songLyrics.EndsWith("hello"));
 // o resultado será um bool de valor True, pois a variável songLyrics termina com a string 'hello'
+
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=5

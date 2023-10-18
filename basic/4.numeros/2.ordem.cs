@@ -35,4 +35,4 @@ Console.WriteLine($"remainder: {e}");
 // quotient: 3
 // remainder: 2
 
-
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp?tutorial-step=2

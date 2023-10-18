@@ -20,3 +20,5 @@ int c = a / b;
 
 // Adição:
 int c = a + b;
+
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp?tutorial-step=1

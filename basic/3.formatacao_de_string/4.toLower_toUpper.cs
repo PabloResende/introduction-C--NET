@@ -9,3 +9,5 @@ Console.WriteLine(sayHello.ToUpper());
 // já com o upper tuda a string ficará maiúscula
 
 // importante lembrar dos parênteses depois do método
+
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=4

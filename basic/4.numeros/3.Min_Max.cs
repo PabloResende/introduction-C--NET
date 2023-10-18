@@ -16,3 +16,5 @@ Console.WriteLine($"An example of overflow: {what}");
 //Observe que a resposta é muito próxima do mínimo inteiro (negativo). É o mesmo que min + 2. A operação de adição estourou os valores permitidos para números inteiros. A resposta é um número negativo muito grande, pois um estouro "envolve" do maior valor de inteiro possível para o menor.
 
 // Há outros tipos numéricos com limites e precisão diferentes que você usaria quando o tipo int não atendesse às suas necessidades.
+
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp?tutorial-step=3

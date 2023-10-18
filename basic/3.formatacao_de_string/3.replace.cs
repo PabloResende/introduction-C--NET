@@ -7,3 +7,5 @@ Console.WriteLine(sayHello);
 
 // resultado:
 // hello greetings
+
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=4

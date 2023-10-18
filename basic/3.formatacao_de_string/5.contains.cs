@@ -5,3 +5,5 @@ Console.WriteLine(songLyrics.Contains("goodbye")); // basicamente é como se voc
 Console.WriteLine(songLyrics.Contains("greetings")); // não têm essa string na variável songLyrics então o resultado será false
 
 // OBS: um booliano(bool) armazena um valor true ou false. Quando exibidos como saída de texto, eles estão em letras maiúsculas: True e False
+
+// fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=5
