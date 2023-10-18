@@ -29,5 +29,4 @@ Console.WriteLine(third);
 
 // Você sabe que 0.3 é 3/10 e não exatamente o mesmo que 1/3. Da mesma forma, 0.33 é 33/100. Isso é mais próximo de 1/3, mas ainda não exato
 
-
 // fonte: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp?tutorial-step=4
