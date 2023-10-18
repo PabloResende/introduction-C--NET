@@ -12,7 +12,9 @@ aFriend = "Anna"; // não se pode declarar o tipo da variável, quando for atrib
 Console.WriteLine("hello" + " " + aFriend);
 // é possível fazer uma concatenação entre a variável de tipo string mais uma string, através do método Writeline, para separar a palavra da variável pode se concatenar outra string, que nesse caso é apenas um espaço, o resultado é 'hello Bill
 
+// Há um modo melhor. Você pode colocar uma variável entre caracteres { e } para informar ao C# para substituir esse texto com o valor da variável.
+// Isso é chamado de Interpolação de cadeia de caracteres.
+// Se adicionar um $ antes da abertura de aspas da cadeia de caracteres, você poderá incluir variáveis, tais como aFriend, dentro da cadeia de caracteres, entre chaves. Experimente:
 Console.WriteLine($"Hello {aFriend}");
-// outra forma de mostrar a mensagem em uma string, assim não há necessidade de concatenar
 
  // OBS: sempre coloque ponto e vírgula no final
