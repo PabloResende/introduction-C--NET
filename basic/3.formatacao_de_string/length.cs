@@ -1,4 +1,4 @@
- // Você pode encontrar o tamanho de uma cadeia de caracteres usando Length
+// Você pode encontrar o tamanho de uma cadeia de caracteres usando Length
 
 string firstFriend = "Paulo";
 string secondFriend = "Lara";
